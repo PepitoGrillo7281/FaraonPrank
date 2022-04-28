@@ -1,0 +1,5 @@
+powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/PepitoGrillo7281/FaraonPrank/main/play.vbs','C:\Users\jsuka\Desktop\FaraonPrank\FaraonPrank\play.vbs');
+start play.vbs
+powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/PepitoGrillo7281/FaraonPrank/main/volup.vbs','C:\Users\jsuka\Desktop\FaraonPrank\FaraonPrank\volup.vbs'); 
+start volup.vbs 
+exit
